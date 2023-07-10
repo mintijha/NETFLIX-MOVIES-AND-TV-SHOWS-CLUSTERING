@@ -7,7 +7,5 @@ This dataset consists of tv shows and movies available on Netflix as of 2019. Th
 **In this project, you are required to do**
 
 Exploratory Data Analysis
-
 Understanding what type content is available in different countries If Netflix has been increasingly focusing on TV rather than movies in recent years.
-
 Clustering similar content by matching text-based features
