@@ -76,6 +76,17 @@ Employed k-means, hierarchical clustering, and DBSCAN algorithms to cluster Netf
 Evaluated clustering models using silhouette score to determine the quality of clusters and their suitability for understanding content categorization.
 
 ## Results and Insights
+![image](https://github.com/mintijha/NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING/assets/123978172/2a48acf2-595d-4ade-8958-4d9759facec8)
+
+Movies uploaded on Netflix are more than twice the TV Shows uploaded. This dose not implies that movies are more indulging that of TV Shows. Beacuase TV shows may have several seasons which consits of number of episodes. Duration of TV shows are much more that of movies
+
+![image](https://github.com/mintijha/NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING/assets/123978172/f1fa3fe4-6616-4a6d-b9cd-6e70392dc42a)
+
+TV shows are incresing continuosly. Movies were incresing continuosly but after 2019 there is fall.
+
+![image](https://github.com/mintijha/NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING/assets/123978172/8cbe0508-60d0-47ed-80f7-60a079303dcc)
+
+The pie chart shows the percentage share of each of the top 10 genres in the dataset. The insight we can gain from this chart is that the most popular genre in the dataset is dramas, followed by comedies and documentries. It also shows that the top 10 genres make up a significant portion of the dataset.
 
 Discovered distinct clusters within Netflix content, revealing user preferences and genre trends. Insights can inform content recommendation systems and marketing strategies.
 
