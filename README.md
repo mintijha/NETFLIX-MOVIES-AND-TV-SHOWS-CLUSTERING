@@ -88,7 +88,7 @@ TV shows are incresing continuosly. Movies were incresing continuosly but after 
 
 The pie chart shows the percentage share of each of the top 10 genres in the dataset. The insight we can gain from this chart is that the most popular genre in the dataset is dramas, followed by comedies and documentries. It also shows that the top 10 genres make up a significant portion of the dataset.
 
-Discovered distinct clusters within Netflix content, revealing user preferences and genre trends. Insights can inform content recommendation systems and marketing strategies.
+**Discovered distinct clusters within Netflix content, revealing user preferences and genre trends. Insights can inform content recommendation systems and marketing strategies.**
 
 ## Conclusion
 
