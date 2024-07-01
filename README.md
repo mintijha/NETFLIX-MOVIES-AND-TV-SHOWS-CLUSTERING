@@ -99,7 +99,7 @@ Contributions are welcome! Fork the repository and submit a pull request with yo
 
 ## How This Project Is Helpful
 
-**Enhanced User Experience:**x Improves content discovery and recommendation systems for Netflix users.
+**Enhanced User Experience:** Improves content discovery and recommendation systems for Netflix users.
 
 **Business Insights:** Provides actionable insights for content creators and marketers to optimize content strategy.
 
